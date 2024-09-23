@@ -1,7 +1,3 @@
-Here is a detailed and structured **README** file for your weather application project:
-
----
-
 # Weather Application
 
 ## Overview
