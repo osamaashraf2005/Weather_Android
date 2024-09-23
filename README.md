@@ -1,6 +1,6 @@
 # Weather Application
 
-## Demo is attached, please check "demo" file in the project structure.
+## Demo
 [demo.webm](https://github.com/user-attachments/assets/251bc508-904a-4bf0-bea0-2586f9a8255f)
 
 
