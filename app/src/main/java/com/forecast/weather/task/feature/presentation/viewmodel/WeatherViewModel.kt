@@ -88,12 +88,12 @@ class WeatherViewModel @Inject constructor(
         viewModelScope.launch(Dispatchers.IO) {
             try {
                 fusedLocationClient.lastLocation.addOnSuccessListener { location: Location? ->
-                    _location.postValue(location) // Post location to LiveData
+                    _location.postValue(location)
                 }.addOnFailureListener {
-                    _location.postValue(null) // Handle failure to get location
+                    _location.postValue(null)
                 }
             } catch (e: SecurityException) {
-                _location.postValue(null) // Handle permission denied
+                _location.postValue(null)
             }
         }
     }
