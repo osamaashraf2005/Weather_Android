@@ -89,7 +89,7 @@ The app requires the following permissions:
 1. **Clone the repository**:
 
     ```bash
-    git clone https://github.com/your-repo-url.git
+    git clone https://github.com/osamaashraf2005/Weather_Android.git
     ```
 
 2. **Set up API key**:
@@ -133,4 +133,4 @@ Unit tests are written using **JUnit** and **MockK** for mocking the API and rep
 
 ---
 
-This **README** file gives an overview of your weather app, the technology stack used, the project structure, and instructions for setup, testing, and running the app.
+This **README** file gives an overview of weather app, the technology stack used, the project structure, and instructions for setup, testing, and running the app.
