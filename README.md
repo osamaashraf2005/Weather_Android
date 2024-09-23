@@ -125,12 +125,12 @@ Unit tests are written using **JUnit** and **MockK** for mocking the API and rep
 ## Screenshots
 
 ### City Input Screen
-*Add a screenshot here.*
+<img width="317" alt="Screenshot 2024-09-22 at 8 30 18 PM" src="https://github.com/user-attachments/assets/0b3b2943-912d-4539-ad18-6cb42eb029e6">
+
 
 ### Weather Display Screen
-*Add a screenshot here.*
+<img width="314" alt="Screenshot 2024-09-22 at 8 29 55 PM" src="https://github.com/user-attachments/assets/ccf38099-4af9-4603-a23b-4720d167e28b">
 
-## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
