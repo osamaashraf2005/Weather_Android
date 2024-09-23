@@ -127,9 +127,6 @@ Unit tests are written using **JUnit** and **MockK** for mocking the API and rep
 ### Weather Display Screen
 <img width="314" alt="Screenshot 2024-09-22 at 8 29 55 PM" src="https://github.com/user-attachments/assets/ccf38099-4af9-4603-a23b-4720d167e28b">
 
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ---
 
-This **README** file gives an overview of your weather app, the technology stack used, the project structure, and instructions for setup, testing, and running the app. Let me know if you need further adjustments!
+This **README** file gives an overview of your weather app, the technology stack used, the project structure, and instructions for setup, testing, and running the app.
