@@ -1,5 +1,9 @@
 # Weather Application
 
+## Demo
+[demo.webm](https://github.com/user-attachments/assets/251bc508-904a-4bf0-bea0-2586f9a8255f)
+
+
 ## Overview
 
 This is a **Weather App** built using **Kotlin**, **Jetpack Compose**, and **MVVM architecture**. The app allows users to search for weather information by entering a city name or by using their current location. The weather data is fetched from the **OpenWeatherMap API** and displayed in a user-friendly interface, including weather icons, temperature, humidity, and other relevant details.
@@ -85,7 +89,7 @@ The app requires the following permissions:
 1. **Clone the repository**:
 
     ```bash
-    git clone https://github.com/your-repo-url.git
+    git clone https://github.com/osamaashraf2005/Weather_Android.git
     ```
 
 2. **Set up API key**:
@@ -129,4 +133,4 @@ Unit tests are written using **JUnit** and **MockK** for mocking the API and rep
 
 ---
 
-This **README** file gives an overview of your weather app, the technology stack used, the project structure, and instructions for setup, testing, and running the app.
+This **README** file gives an overview of weather app, the technology stack used, the project structure, and instructions for setup, testing, and running the app.
