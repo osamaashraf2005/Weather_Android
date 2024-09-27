@@ -14,14 +14,21 @@ fun WeatherNavHost(navController: NavHostController) {
         composable("weatherDisplay/{cityName}") { backStackEntry ->
             val cityName = backStackEntry.arguments?.getString("cityName")
             cityName?.let {
-                WeatherDisplayScreen(cityName = it)
+                WeatherDisplayScreen(
+                    cityName = it,
+                    navController = navController
+                )
             }
         }
         composable("weatherDisplay/{latitude}/{longitude}") { backStackEntry ->
             val latitude = backStackEntry.arguments?.getString("latitude")?.toDoubleOrNull()
             val longitude = backStackEntry.arguments?.getString("longitude")?.toDoubleOrNull()
             if (latitude != null && longitude != null) {
-                WeatherDisplayScreen(latitude = latitude, longitude = longitude)
+                WeatherDisplayScreen(
+                    latitude = latitude,
+                    longitude = longitude,
+                    navController = navController
+                )
             }
         }
     }
