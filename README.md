@@ -129,7 +129,8 @@ Unit tests are written using **JUnit** and **MockK** for mocking the API and rep
 
 
 ### Weather Display Screen
-<img width="314" alt="Screenshot 2024-09-22 at 8 29 55 PM" src="https://github.com/user-attachments/assets/ccf38099-4af9-4603-a23b-4720d167e28b">
+<img width="327" alt="Screenshot 2024-09-27 at 10 58 10 AM" src="https://github.com/user-attachments/assets/c33e7137-59df-4636-8a3f-e93ba0aa22bb">
+
 
 ---
 
